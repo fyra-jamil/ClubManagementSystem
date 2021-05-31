@@ -1,4 +1,4 @@
-# ClubManagementSystem
+# Club Management System
 # Introduction
 
 This project is a simulation of the club management system and an assignment for Web Development subject for University Malaysia of Computer Science and Engineering (UNIMY).
